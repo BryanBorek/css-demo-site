@@ -1,5 +1,6 @@
 Horiseon Webpage Accessability and Semantics Refactoring
 
+Link to deployed app: https://bryanborek.github.io/css-demo-site/
 Link to the project Github: https://github.com/BryanBorek/css-demo-site
 
 ![HoriseonRefactor.png](./assets/HoriseonRefactor.png)
